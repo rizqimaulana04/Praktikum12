@@ -17,7 +17,8 @@
 
 ## **main.py**
 
-**OUTPUT PROGRAM**
+### **OUTPUT PROGRAM**
+
 ![.](gambar/output.png)
 
 ### **Deskripsi**
